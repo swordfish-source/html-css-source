@@ -1,0 +1,19 @@
+h1  + p {
+ color: blue;
+ font-size: 25px;
+}
+
+
+h2 {
+ color: orange;
+}
+
+.special {
+  color: green;
+  font-size: 130%;
+}
+
+.welcome {
+    color: orange;
+}
+
